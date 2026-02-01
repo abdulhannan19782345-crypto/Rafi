@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Ibrahim AI Pro",
+  "description": "A powerful AI assistant inspired by Gemini, featuring advanced text generation and real-time live voice capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
